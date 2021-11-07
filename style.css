@@ -1,0 +1,81 @@
+body,html{
+  margin: 0;
+}
+
+html{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+header h2{
+  letter-spacing: 0.7pt;
+  font-size: 3em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+.one{
+  background-image: url("1.png");
+  height: 800px;
+  width:100% ;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h3{
+  font-size: 2.5em;
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+p{
+  font-size: 2em;
+  padding-top: 5px;
+  padding-bottom: 15px;
+
+}
+
+
+.two{
+  background-image: url("2.png");
+  height: 800px;
+  width:100% ;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.three{
+  background-image: url("3.png");
+  height: 800px;
+  width:100% ;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.four{
+  background-image: url("4.png");
+  height: 800px;
+  width:100% ;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.five{
+  background-image: url(5.png);
+  height: 800px;
+  width:100% ;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
